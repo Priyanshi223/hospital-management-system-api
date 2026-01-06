@@ -5,7 +5,7 @@ The **Hospital Management System (HMS)** is a web-based application designed to 
 ---
 
 ## Features
-- **Patient Management:** Add, update, delete, and search patient records. 
+- **Hospital Management:** Add, update, delete, and search hospital and patient records. 
 ---
 
 ## Technologies Used
@@ -18,4 +18,4 @@ The **Hospital Management System (HMS)** is a web-based application designed to 
 ## Installation & Setup
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/hospital-management-system.git
+https://github.com/Priyanshi223/hospital-management-system-api.git
